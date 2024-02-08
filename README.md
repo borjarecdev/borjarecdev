@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, Me llamo Borja Recio</h1>
 <h3 align="center">Soy un Progrmador Web Fullstack apasionado</h3>
 
-- 👨‍💻 All of my projects are available at [https://borjadev.es/](https://borjadev.es/)
+- 👨‍💻 Todos mis proyectos los puedes encontrar en mi portfolio personal: [https://borjadev.es/](https://borjadev.es/)
 
-- 💬 Ask me about **HTML, CSS, JS, REACT, ANGULAR**
+- 💬 Me puedes preguntar sobre: **HTML, CSS, JS, REACT, ANGULAR**
 
-- 📫 How to reach me **borjarecdev@gmail.com**
+- 📫 Contacta conmigo a traves de **borjarecdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
